@@ -1,7 +1,6 @@
 # regenerator-runtime-bug
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+Run the app in Chrome and observe an error `Uncaught (in promise) ReferenceError: regeneratorRuntime is not defined`.
 
 ## Prerequisites
 
